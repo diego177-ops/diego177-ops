@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">-Aluno do 2º ano do Ensino Médio – SENAI<br>-Curso técnico em Programação<br>-Desenvolvendo habilidades em tecnologia e programação<br>-Focado em aprendizado e crescimento profissional</h3>
+<h3 align="left">-Second-year high school student – ​​SENAI<br>-Technical course in Programming<br>-Developing skills in technology and programming<br>-Focused on learning and professional growth</h3>
 
 ###
 
