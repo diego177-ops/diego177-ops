@@ -1,5 +1,3 @@
-<img width="830" height="320" alt="github-header-banner" src="https://github.com/user-attachments/assets/fdcf7a40-ca59-4f82-a6c8-2c8ee5a7fb40" />
-
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -30,17 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-</div>
-
-###
-
- ##
- 
-<div> 
-  
-  <a href="https://www.instagram.com/_diego.rc_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
 ###
