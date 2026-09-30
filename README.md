@@ -58,6 +58,12 @@
 
 ###
 
+<h2 align="left">GitHub Contributions</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/diego177-ops/diego177-ops/output/snake.svg" alt="Snake animation" />
+</div>
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/diego177-ops /diego177-ops /snake-output/snake.svg" alt="Snake animation" />
 
 ###
