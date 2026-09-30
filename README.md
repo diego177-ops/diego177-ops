@@ -54,10 +54,6 @@
 
 ###
 
-<h2 data-importer="text" align="left"></h2>
-
-###
-
 <p data-importer="text" align="left"></p>
 
 ###
